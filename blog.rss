@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Zeus Manager Blog</title>
+    <link>https://zeusmanager.com/es/blog</link>
+    <description>Artículos sobre la gestión de reservas y RRHH en el sector de la hostelería</description>
+    <item>
+      <title>¿Estás pagando de más por gestionar tus reservas? Hay una mejor manera</title>
+      <link>https://zeusmanager.com/es/pagando-de-mas-por-gestionar-tus-reservas</link>
+      <description>
+        Este artículo discute cómo la digitalización puede transformar la gestión de reservas en el sector de la hostelería y cómo evitar gastos innecesarios. Aquí encontrarás consejos para mejorar la gestión de reservas sin pagar de más.
+      </description>
+      <pubDate>Thu, 20 Feb 2025 12:00:00 GMT</pubDate>
+      <guid>https://zeusmanager.com/es/pagando-de-mas-por-gestionar-tus-reservas</guid>
+    </item>
+    <item>
+      <title>Optimización de reservas: ventajas del bloqueo de turnos</title>
+      <link>https://zeusmanager.com/es/optimizacion-de-reservas-ventajas-del-bloqueo-de-turnos</link>
+      <description>
+        El manejo eficiente de los turnos de atención es fundamental para cualquier negocio que gestione reservas. Este artículo explora cómo el bloqueo de turnos en Zeus Manager puede evitar la saturación del servicio, adaptar los menús a cada momento del día y aprovechar al máximo los momentos de menor afluencia.
+      </description>
+      <pubDate>Thu, 20 Feb 2025 13:00:00 GMT</pubDate>
+      <guid>https://zeusmanager.com/es/optimizacion-de-reservas-ventajas-del-bloqueo-de-turnos</guid>
+    </item>
+  </channel>
+</rss>
